@@ -16,4 +16,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/NT-BOT-TE?style=social) 
 
 ### status
-![Github Stats](https://github-stats-alpha.vercel.app/api/?username= NT-BOT-TE&tc=333&ic=333)
+![Github Stats](https://github-stats-alpha.vercel.app/api/?username=NT-BOT-TE&tc=323&ic=323)
