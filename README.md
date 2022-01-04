@@ -1,5 +1,5 @@
 
 ### 🄷🄸 🄸🄼 🄽🅃 🄰🄳🄼🄸🄽 😎 
 
-$Bot channel
+### Bot channel
 [![NT ADMIN](https://img.shields.io/badge/Channel-join-<COLOR>.svg)](https://t.me/NT_BOT_CHANNEL)
