@@ -4,4 +4,4 @@
 ### Bot channel
 [![NT ADMIN](https://img.shields.io/badge/Channel-join-<COLOR>.svg)](https://t.me/NT_BOT_CHANNEL)
 ### Movie channel 
-[![movie night](https://img.shields.io/badge/Movie Channel-join-<COLOR>.svg)](https://t.me/MOVIES_NIGHTG)
+[![movie night](https://img.shields.io/badge/Movie-Channel-join-<COLOR>.svg)](https://t.me/MOVIES_NIGHTG)
