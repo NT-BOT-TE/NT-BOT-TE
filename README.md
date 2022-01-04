@@ -1,6 +1,10 @@
 
 ### 🄷🄸 🄸🄼 🄽🅃 🄰🄳🄼🄸🄽
 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=NT-BOT-TE&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Bot channel
 [![NT ADMIN](https://img.shields.io/badge/Channel-join-<COLOR>.svg)](https://t.me/NT_BOT_CHANNEL)
 ### Movie channel 
@@ -8,3 +12,4 @@
 
 ### followers 😍🤩
 ![GitHub followers](https://img.shields.io/github/followers/NT-BOT-TE?style=social) 
+
